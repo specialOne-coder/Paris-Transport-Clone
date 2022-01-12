@@ -4,7 +4,9 @@ Bon , j'ai essayé de cloner l'intégralité de l'application Bonjour Ratp que l
 bien souvent pour leur transport sur Paris. Quelques captures d'ecrans de mon appli.
 
 ## Presentation
-![](accueil.png)(p1.png)
+######
+![](accueil.png)
+![](p1.png)
 ![](p2.png)
 
 ## Getting Started
